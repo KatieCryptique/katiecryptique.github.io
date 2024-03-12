@@ -33,7 +33,7 @@ This journey, from family helpdesk support to tech innovator, led me to VETTEC a
 
 **So, why cybersecurity? Because it's the culmination of a life spent embracing and conquering tech challenges. It's about taking that innate curiosity that had me playing PC games and turning it into a force for good. Cybersecurity isn't just a career path for me; it's the next chapter in a lifelong adventure in tech. And trust me, this is one adventure that's only just begun.**
 
-Ready to Team Up? 
+Ready to Team Up? 🤙
 ======
 And there you have it, folks – a whistle-stop tour of my cyber world. It’s been quite the ride, and I hope you’ve enjoyed getting to know the nerd behind the screen. This journey through the bits and bytes of cybersecurity is packed with challenges, but it's also filled with opportunities to learn, grow, and make a real impact.
 
@@ -41,11 +41,11 @@ Cybersecurity isn’t just my job; it’s my playground and my passion project. 
 
 Let's Join Forces 👾
 ------
-Here's how you can reach me:
-
-🔗 On [LinkedIn - Let’s connect!](https://www.linkedin.com/in/k-paz/)
-📬 Via [Email - Drop me a line anytime.](mailto:email.activate247@passmail.net?subject=Hi)
-📁 On [GitHub - Dive into my projects and see what I’m tinkering with.](https://github.com/KatieCryptique)
-Whether you stumbled upon my page out of curiosity, professional interest, or in search of a kindred spirit in the cyberspace, I’m glad you did. The digital universe is our oyster, and there’s no limit to what we can discover and achieve together.
-
+Here's how you can reach me:  
+  
+🔗 On [LinkedIn - Let’s connect!](https://www.linkedin.com/in/k-paz/)  
+📬 Via [Email - Drop me a line anytime.](mailto:email.activate247@passmail.net?subject=Hi)  
+📁 On [GitHub - Dive into my projects and see what I’m tinkering with.](https://github.com/KatieCryptique)  
+Whether you stumbled upon my page out of curiosity, professional interest, or in search of a kindred spirit in the cyberspace, I’m glad you did. The digital universe is our oyster, and there’s no limit to what we can discover and achieve together.  
+  
 Thanks for dropping by my little cyber nook. Catch ya in the Cyber Space! 👽
