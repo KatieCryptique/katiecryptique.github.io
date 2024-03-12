@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "My Cyber Journey"
+title                    : "Cyber & InfoSec"
 title_separator          : "-"
 name                     : &name "Katie Paz"
 description              : &description "Katie | Cyber & InfoSec"
