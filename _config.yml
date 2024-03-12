@@ -21,7 +21,7 @@ repository               : "KatieCryptique/KatieCryptique.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "cyber-pic.png"
   name             : "Katie Paz"
   pronouns         : "she/her"  
   bio              : "Diving into the cyber world, where security meets curiosity."
