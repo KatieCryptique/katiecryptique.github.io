@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Katie Paz: My Cyber Journey"
+title: "My Cyber Journey"
 author_profile: true
 redirect_from: 
   - /about/
