@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Katie | Cyber & InfoSec"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Katie Paz"
+description              : &description "Cyber enthusiast. InfoSec explorer. Join me on a journey through the digital landscape, where we decrypt the mysteries of cybersecurity together."
+url                      : "https://katiecryptique.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "KatieCryptique/KatieCryptique.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Katie Paz"
+  pronouns         : "she/her"  
+  bio              : "Diving into the cyber world, where security meets curiosity."
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Fullstack Academy"
+  uri              : "https://www.linkedin.com/in/k-paz" # URL
   email            : "none@example.org" 
 
   # Academic websites
