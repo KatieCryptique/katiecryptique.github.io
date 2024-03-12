@@ -31,7 +31,7 @@ My quest for faster internet speeds introduced me to networking, where I upgrade
 
 This journey, from family helpdesk support to tech innovator, led me to VETTEC and Fullstack Academy's Cybersecurity Analytics bootcamp. Immersed in the world of cybersecurity, it was here that everything clicked. I'd found my calling.
 
-**So, why cybersecurity? Because it's the culmination of a life spent embracing and conquering tech challenges. It's about taking that innate curiosity that had me playing PC games and turning it into a force for good. Cybersecurity isn't just a career path for me; it's the next chapter in a lifelong adventure in tech. And trust me, this is one adventure that's only just begun.**
+*So, why cybersecurity? Because it's the culmination of a life spent embracing and conquering tech challenges. It's about taking that innate curiosity that had me playing PC games and turning it into a force for good. Cybersecurity isn't just a career path for me; it's the next chapter in a lifelong adventure in tech. And trust me, this is one adventure that's only just begun.*
 
 Ready to Team Up? 🤙
 ======
