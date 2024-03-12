@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Diving into the cyber world, where security meets curiosity."
   location         : "South Florida"
-  employer         : "https://www.fullstackacademy.com/programs/cybersecurity-bootcamp"
+  employer         : "Fullstack Academy"
   credly           : "https://www.credly.com/users/katiepaz/badges" # URL
   email            : "email.activate247@passmail.net" 
 
@@ -198,16 +198,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  feeds:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  accomplishments:
     output: true
     permalink: /:collection/:path/
 
