@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Katie | Cyber & InfoSec"
+title                    : "My Cyber Journey"
 title_separator          : "-"
 name                     : &name "Katie Paz"
-description              : &description "Cyber enthusiast. InfoSec explorer. Join me on a journey through the digital landscape, where we decrypt the mysteries of cybersecurity together."
+description              : &description "Katie | Cyber & InfoSec"
 url                      : "https://katiecryptique.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KatieCryptique/KatieCryptique.github.io"
