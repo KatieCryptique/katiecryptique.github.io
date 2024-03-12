@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Katie Paz: My Cyber Journey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my digital domain, where curiosity meets cybersecurity. I'm Katie Paz, a dedicated explorer of the ever-evolving world of cyber and information security. This website serves as a central hub for my professional journey, showcasing my projects, insights, and contributions to the field of cybersecurity.
+
+With a background in both academic study and hands-on experience, my mission is to demystify the complexities of digital security and foster a safer online environment for all. Here, you'll find a collection of my work, ranging from in-depth analyses of the latest security threats to innovative solutions designed to protect against them.
+
+This site is built on the foundation of sharing knowledge and encouraging dialogue within the cybersecurity community. Whether you're a fellow security enthusiast, a potential collaborator, or simply curious about the field, I invite you to explore my portfolio, read my blog posts, and connect with me on professional networks.
+
+Thank you for visiting, and I look forward to engaging with you on this digital journey through the realm of cybersecurity.
 
 A data-driven personal website
 ======
